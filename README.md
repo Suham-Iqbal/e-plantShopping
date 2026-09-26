@@ -1,33 +1,20 @@
-# Paradise Nursery Shopping Application
+# ⚡ E Plantshopping
 
-An e-commerce web application for Paradise Nursery, an online plant shop built with React and Redux Toolkit.
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Author](https://img.shields.io/badge/Author-Suham%20Iqbal-412991)
 
-## Project Overview
+> **Professional repository developed and maintained by Suham Iqbal Khan.**
 
-Paradise Nursery is a dynamic shopping cart application that allows users to browse a wide variety of houseplants, view details such as images, names, descriptions, and prices, add plants to a shopping cart, and manage cart items including adjusting quantities and removing items.
+This project is part of a broader ecosystem of full-stack applications, AI automation runtimes, and mobile platforms. 
 
-## Features
+## 🚀 Overview
+**E Plantshopping** focuses on delivering scalable, production-ready code with an emphasis on clean architecture.
 
-- **Product Listing Page**: Browse houseplants organized by categories with thumbnails, names, and prices
-- **Shopping Cart**: Add, remove, and update plant quantities with real-time total calculations
-- **Navigation Bar**: Easy navigation between Home, Plants, and Cart pages
-- **Dynamic Cart Icon**: Shows the total number of items in the cart
-- **Responsive Design**: Works across different screen sizes
+## 🛠️ Highlights
+- **Architecture:** Modular and performance-optimized.
+- **Security:** Standardized secure paradigms (e.g., RBAC, JWT) where applicable.
+- **Code Quality:** Written with maintainability and scale in mind.
 
-## Technologies Used
-
-- React.js
-- Redux Toolkit
-- CSS3
-- JavaScript (ES6+)
-
-## Getting Started
-
-```bash
-npm install
-npm start
-```
-
-## Author
-
-Suham Iqbal
+---
+*Engineered by [Suham Iqbal Khan](https://github.com/Suham-Iqbal) | High-Performance Systems.*
